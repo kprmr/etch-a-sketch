@@ -1,5 +1,5 @@
 const container = document.querySelector("#container");
-const value = prompt("What is the size of box")
+const value = prompt("What is the size of box. e.g. 7")
 
 //The line below is one line code to generate random color
 // var newRandomColor = Math.floor(Math.random()*16777215).toString(16)
